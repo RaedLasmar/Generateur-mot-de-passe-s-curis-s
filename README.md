@@ -1,2 +1,2 @@
-# Generateur-mot-de-passe-s-curis-s
+# Generateur-mot-de-passe-securises
 Générateur de mots de passe sécurisés en Python - longueur personnalisable, majuscules, chiffres, caractères spéciaux et score de complexité
